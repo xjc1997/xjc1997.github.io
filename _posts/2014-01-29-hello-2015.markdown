@@ -34,10 +34,11 @@ xjc 的 Blog 就这么开通了。
 * 建立resposity，并改名为xjc1997.github.io,然后和本地关联。
 * 写博客肯定是需要模板的= =，折腾了半天之后还是决定网上套用了一个。毕竟咱站在巨人的肩膀上
 * 中途安装了ruby jekyll，emmm,大概是用来在本地检查的，但是实际上因为是套用网上黄玄大神的模板，这一步省了也无所谓。
-*（附链接：https://github.com/Huxpro/huxpro.github.io/blob/master/README.zh.md）
+
+* 附链接：https://github.com/Huxpro/huxpro.github.io/blob/master/README.zh.md
 
 中间的困难和latex一样，得关注成品的美感程度，将比于latex的实时呈现，这个只能利用jekyll serve 的方式来检查自己的成果。
-备注一下，jekyll serve 的默认端口4000 在自己电脑上被占用了，也不敢关，就直接 jekyll serve --port 3000 把端口改到3000了，
+备注一下，jekyll serve 的默认端口4000 在自己电脑上被占用了，也不敢关，就直接 jekyll serve ---port 3000 把端口改到3000了，
 也还行吧。
 
 **我们的目标是星辰大海**
